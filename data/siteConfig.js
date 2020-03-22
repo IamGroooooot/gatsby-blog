@@ -1,8 +1,8 @@
 module.exports = {
-  siteTitle: 'gatsby-starter-morning-dew',
+  siteTitle: 'ÇïÃ¢ °³¹ßÀÚ',
   siteDescription: 'A Gatsby theme/starter to build lightning-fast websites',
-  authorName: 'Maxence Poutord',
-  twitterUsername: '_maxpou',
+  authorName: 'ÁÖÇü',
+  twitterUsername: '_blank',
   authorAvatar: 'avatar.jpeg', // file in content/images
   defaultLang: 'en', // show flag if lang is not default. Leave empty to enable flags in post lists
   authorDescription: `
@@ -11,12 +11,12 @@ module.exports = {
   As a digital nomad, he is living where the WiFi and sun are ðŸ˜Ž <br>
   Do you want to know more? <a href="https://www.maxpou.fr/about" target="_blank">Visit my website!</a>
   `,
-  siteUrl: 'https://maxpou.github.io/',
-  disqusSiteUrl: 'https://www.maxpou.fr/',
+  siteUrl: 'https://helldev.netlify.com/',
+  disqusSiteUrl: 'https://helldev.netlify.com/',
   // Prefixes all links. For cases when deployed to maxpou.fr/gatsby-starter-morning-dew/
-  pathPrefix: '/gatsby-starter-morning-dew', // Note: it must *not* have a trailing slash.
+  pathPrefix: '', // Note: it must *not* have a trailing slash.
   siteCover: 'cover-baymax.jpeg', // file in content/images
-  googleAnalyticsId: 'UA-67868977-1',
+  googleAnalyticsId: '',
   background_color: '#ffffff',
   theme_color: '#222222',
   display: 'standalone',
@@ -42,7 +42,7 @@ module.exports = {
   // Footer information (ex: Github, Netlify...)
   websiteHost: {
     name: 'GitHub',
-    url: 'https://github.com',
+    url: 'https://netlify.com',
   },
   footerLinks: [
     {
@@ -67,15 +67,15 @@ module.exports = {
       links: [
         {
           label: 'GitHub',
-          url: 'https://github.com/maxpou/gatsby-starter-morning-dew',
+          url: 'https://github.com/iamgroooooot',
         },
         {
           label: 'Website',
-          url: 'https://www.maxpou.fr',
+          url: '_blank',
         },
         {
           label: 'Twitter',
-          url: 'https://twitter.com/_maxpou',
+          url: '_blank',
         },
       ],
     },
